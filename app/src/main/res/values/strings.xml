@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">GenshinCharacter</string>
+    <string name="genshinchar_name">Nama Karakter</string>
+    <string name="genshinchar_image">Gambar</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="nama_saya">Hikam Rizqillah Munandar</string>
+    <string name="email_saya">hiltikazamak@gmail.com</string>
+    <string name="domisili_saya">Kota Tangerang Selatan, Indonesia</string>
+    <string name="vision">Vision</string>
+    <string name="vision_name">Nama Vision</string>
+    <string name="region">Region</string>
+    <string name="vision_image">Gambar</string>
+    <string name="nama_region">Nama Region</string>
+    <string name="region_image">Gambar</string>
+    <string name="instagramprofile">instagramProfile</string>
+    <string name="motivation">As an Android Developer, my greatest motivation is to create something that can improve people\'s lives through technology. Every line of code I write is an opportunity to make a difference and inspire others to do the same.</string>
+
+    <string-array name="data_name">
+        <item>Kamisato Ayaka</item>
+        <item>Ayang Lumine</item>
+        <item>Collei</item>
+        <item>Hu Tao</item>
+        <item>Kaedahara Kazuha</item>
+        <item>Songonomiya Kokomi</item>
+        <item>Nahida</item>
+        <item>Nilou</item>
+        <item>Raiden Shogun</item>
+        <item>Tatang</item>
+        <item>Tinayi</item>
+        <item>Venti</item>
+        <item>Wawan</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Daughter of the Yashiro Commission\'s Kamisato Clan from Inazuma. Dignified and elegant, wise and determined.Sincere and pleasant to others. Universally loved by the Inazuma people, she has earned the title of Shirasagi Himegimi.</item>
+        <item>A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.</item>
+        <item>A Trainee Forest Ranger who is under the tutelage of Tighnari. She started her academic career a little later than her peers, so she is currently working hard to catch up. She hides the other side of her personality deep under the surface of optimism and kindness.</item>
+        <item>Hu Tao is the 77th Director of the Wangsheng Funeral Parlor, a person vital to managing Liyue\'s funerary affairs. She does her utmost to flawlessly carry out a person\'s last rites and preserve the world\'s balance of yin and yang. Aside from this, she is also a talented poet whose many "masterpieces" have passed around Liyue\'s populace by word of mouth.</item>
+        <item>A wandering samurai from Inazuma with a modest and gentle personality. Beneath a youthful and carefree demeanor lies a heart that hides a great many burdens from the past. Seemingly easygoing, Kazuha has his own code of conduct.</item>
+        <item>Kokomi is the Divine Priestess of Watatsumi Island, and also serves as its supreme leader. She is well-versed in the art of war, is good at strategizing, and has keen insights into military affairs. She is also adept at handling domestic affairs, diplomacy, and other matters. Still, this unfathomable leader has a mysterious side to her…</item>
+        <item>Lesser Lord Kusanali dwells deep in the Sanctuary of Surasthana, and has never really been in the limelight, nor has she even been mentioned much. Her burden is heavy, but though she may experience loneliness, and though darkness is all she sees before her, she will not stop moving forward.</item>
+        <item>Star of the Zubayr Theater. Her dance is as graceful as a water lily in first bloom, pure and pristine. But she is by no means a haughty and cold person. Even the most hurried traveler will not forget her innocent and radiant smile.</item>
+        <item>The Raiden Shogun is the awesome and terrible power of thunder incarnate, the exalted ruler of the Inazuma Shogunate. With the might of lightning at her disposal, she commits herself to the solitary pursuit of eternity.</item>
+        <item>Meet Tartaglia — the cunning Snezhnayan whose unpredictable personality keeps people guessing his every move. Don\'t be under any illusion as to what he might be thinking or what his intentions are. Just remember this: Behind that innocent, childlike exterior lies a finely honed instrument of war.</item>
+        <item>An Avidya Forest Watcher and botanical scholar who graduated from Amurta. He leads a fruitful life of patrolling the rainforest, protecting the ecology, and lecturing fools every day.</item>
+        <item>A bard that seems to have arrived on some unknown wind — sometimes sings songs as old as the hills, and other times sings poems fresh and new. Likes apples and lively places but is not a fan of cheese or anything sticky. When using his Anemo power to control the wind, it often appears as feathers, as he\'s fond of that which appears light and breezy.</item>
+        <item>If the measure of humanity is having a heart, then he cannot be deemed as such. If one without a heart experiences joy and sorrow, then he shall be a puppet most alike to humanity.</item>
+    </string-array>
+
+    <string-array name="data_vision">
+        <item>Cryo</item>
+        <item>All Elements</item>
+        <item>Dendro</item>
+        <item>Pyro</item>
+        <item>Anemo</item>
+        <item>Hydro</item>
+        <item>Dendro</item>
+        <item>Hydro</item>
+        <item>Electro</item>
+        <item>Hydro</item>
+        <item>Dendro</item>
+        <item>Anemo</item>
+        <item>Anemo</item>
+    </string-array>
+
+    <string-array name="data_nama_region">
+        <item>Inazuma</item>
+        <item>Descender</item>
+        <item>Sumeru</item>
+        <item>Liyue</item>
+        <item>Inazuma</item>
+        <item>Inazuma</item>
+        <item>Sumeru</item>
+        <item>Sumeru</item>
+        <item>Inazuma</item>
+        <item>Liyue</item>
+        <item>Sumeru</item>
+        <item>Monstadt</item>
+        <item>Sumeru</item>
+    </string-array>
+
+    <integer-array name="data_region_image">
+        <item>@drawable/inazuma</item>
+        <item>@drawable/descender</item>
+        <item>@drawable/sumeru</item>
+        <item>@drawable/liyue</item>
+        <item>@drawable/inazuma</item>
+        <item>@drawable/inazuma</item>
+        <item>@drawable/sumeru</item>
+        <item>@drawable/sumeru</item>
+        <item>@drawable/inazuma</item>
+        <item>@drawable/liyue</item>
+        <item>@drawable/sumeru</item>
+        <item>@drawable/monstadt</item>
+        <item>@drawable/sumeru</item>
+    </integer-array>
+
+    <integer-array name="data_vision_image">
+        <item>@drawable/cryo</item>
+        <item>@drawable/allvision</item>
+        <item>@drawable/dendro</item>
+        <item>@drawable/pyro</item>
+        <item>@drawable/anemo</item>
+        <item>@drawable/hydro</item>
+        <item>@drawable/dendro</item>
+        <item>@drawable/hydro</item>
+        <item>@drawable/electro</item>
+        <item>@drawable/hydro</item>
+        <item>@drawable/dendro</item>
+        <item>@drawable/anemo</item>
+        <item>@drawable/anemo</item>
+    </integer-array>
+
+    <integer-array name="data_genshinchar_image">
+        <item>@drawable/ayaka</item>
+        <item>@drawable/ayang</item>
+        <item>@drawable/collei</item>
+        <item>@drawable/hutao</item>
+        <item>@drawable/kazuha</item>
+        <item>@drawable/kokomi</item>
+        <item>@drawable/nahida</item>
+        <item>@drawable/nilou</item>
+        <item>@drawable/raidenshogun</item>
+        <item>@drawable/tatang</item>
+        <item>@drawable/tinayi</item>
+        <item>@drawable/venti</item>
+        <item>@drawable/wawan</item>
+    </integer-array>
+
+</resources>
